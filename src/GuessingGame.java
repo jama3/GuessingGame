@@ -82,6 +82,5 @@ public class GuessingGame extends JFrame {
 		theGame.setSize(new Dimension(450,300));
 		theGame.setVisible(true);
 		
-
 	}
 }
